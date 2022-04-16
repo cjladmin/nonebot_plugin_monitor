@@ -15,6 +15,8 @@ setuptools.setup(
     license='MIT',
     install_requires=[
         "requests>=2.26.0",
+        "nonebot2",
+        "nonebot-adapter-onebot"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
