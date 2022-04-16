@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="nonebot_plugin_monitor",
-    version="0.0.1",
+    version="0.0.2",
     author="Torres-圣君",
     author_email="2653644677@qq.com",
     description="基于NoneBot2实现，检测QQ群状态，例如：群成员人数变动、文件上传、红包运气王、管理员变动等",
