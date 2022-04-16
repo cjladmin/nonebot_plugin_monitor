@@ -3,8 +3,11 @@
 </p>
 
 <div align="center">
-    # Monitor_Groups
-    _✨ 基于NoneBot2实现的 监测QQ群事件 插件 ✨_
+
+# Monitor_Groups
+
+_✨ 基于NoneBot2实现的 监测QQ群事件 插件 ✨_
+
 </div>
 
 ## 具体功能：
