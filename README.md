@@ -1,9 +1,10 @@
+<p align="center">
+  <a href="https://v2.nonebot.dev/"><img src="https://v2.nonebot.dev/logo.png" width="200" height="200" alt="nonebot"></a>
+</p>
+
 <div align="center">
-
-# Monitoring_Groups
-
-_✨ 基于NoneBot2实现的 监测QQ群事件 插件 ✨_
-
+    # Monitor_Groups
+    _✨ 基于NoneBot2实现的 监测QQ群事件 插件 ✨_
 </div>
 
 ## 具体功能：
